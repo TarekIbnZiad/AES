@@ -1,5 +1,7 @@
 # AES
-Implementing the AES encryption/decryption algorithms using C++. Plain text and key is read from .txt files and they are in hexadecimal format. Every file contains 16 byte, bytes are separated by spaces.
+Implementing the AES encryption/decryption algorithms using C++ as a part of CSE432: Computer Security undergarduate course in Computer and Systems Engineering Department, Faculty of Engineering, ASU. 
+
+Plain text and key is read from .txt files and they are in hexadecimal format. Every file contains 16 byte, bytes are separated by spaces.
 
 The project will be run through cmd as follows: 
 
